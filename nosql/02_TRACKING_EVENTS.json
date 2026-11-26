@@ -1,0 +1,5292 @@
+[
+  {
+    "dispatch_id": {
+      "$numberInt": "1"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T12:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 60000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "2"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Corozal",
+    "event_date": {
+      "$date": "2026-11-04T22:57:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 110000,
+      "mechanic_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "3"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-05T06:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 60000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "4"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Corozal",
+    "event_date": {
+      "$date": "2026-11-10T01:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 400000,
+      "mechanic_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "5"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-21T10:39:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 190000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "6"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-20T05:36:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "165"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 150000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "7"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-16T07:39:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "60"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 180000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "8"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-17T08:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 110000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "9"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-21T21:48:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 70000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "10"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-14T08:13:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 100000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "11"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-09T18:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 410000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "12"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T08:55:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 470000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "13"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-18T07:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 110000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "14"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-17T20:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 150000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "15"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Corozal",
+    "event_date": {
+      "$date": "2026-11-04T05:59:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 490000,
+      "mechanic_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "16"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-12T03:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 390000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "17"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-10T23:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 220000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "18"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-02T11:03:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "165"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 190000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "19"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-10T14:26:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 90000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "20"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-23T17:17:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 180000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "21"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T01:19:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 140000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "22"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Corozal",
+    "event_date": {
+      "$date": "2026-11-20T11:57:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 420000,
+      "mechanic_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "23"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-07T07:05:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 190000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "24"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en San Marcos",
+    "event_date": {
+      "$date": "2026-11-05T23:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 80000,
+      "mechanic_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "25"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-20T05:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 480000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "26"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-22T07:14:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 290000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "27"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-06T05:07:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 480000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "28"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-16T11:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "60"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 460000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "29"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-21T15:35:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "15"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 150000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "30"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-09T03:08:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 370000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "31"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-24T02:30:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "affected_component": "Tire",
+      "repair_cost_cop": 450000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "32"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Corozal",
+    "event_date": {
+      "$date": "2026-11-08T08:27:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 280000,
+      "mechanic_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "33"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-15T18:03:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 430000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "34"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-14T23:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "affected_component": "Radiator",
+      "repair_cost_cop": 280000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "35"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-04T14:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "affected_component": "Brakes",
+      "repair_cost_cop": 410000,
+      "mechanic_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "36"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-06T17:21:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 90000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "37"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Sampués",
+    "event_date": {
+      "$date": "2026-11-08T12:21:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 400000,
+      "mechanic_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "38"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-10T03:42:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 180000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "39"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Majagual",
+    "event_date": {
+      "$date": "2026-11-17T23:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 470000,
+      "mechanic_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "40"
+    },
+    "incident_id": null,
+    "event_type": "MECHANICAL_FAILURE",
+    "description": "Falla mecánica en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-12T06:46:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "affected_component": "Battery",
+      "repair_cost_cop": 120000,
+      "mechanic_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "41"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T11:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "42"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-03T16:18:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "43"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-04T05:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "44"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-10T18:00:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "45"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-12T01:25:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "46"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-05T09:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "47"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-19T17:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "48"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sampués",
+    "event_date": {
+      "$date": "2026-11-03T18:12:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "49"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sampués",
+    "event_date": {
+      "$date": "2026-11-12T07:35:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "50"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-07T09:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "51"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-12T08:51:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "52"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-03T07:15:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "53"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-11T18:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "54"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-10T17:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "55"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-01T02:21:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "56"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Majagual",
+    "event_date": {
+      "$date": "2026-11-20T06:02:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "57"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sampués",
+    "event_date": {
+      "$date": "2026-11-08T01:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "58"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Majagual",
+    "event_date": {
+      "$date": "2026-11-03T18:34:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "360"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "59"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Majagual",
+    "event_date": {
+      "$date": "2026-11-22T16:46:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "60"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-24T02:41:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "61"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Corozal",
+    "event_date": {
+      "$date": "2026-11-11T16:54:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "62"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-02T19:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "63"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-12T20:49:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "64"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sampués",
+    "event_date": {
+      "$date": "2026-11-11T20:42:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "65"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-21T19:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "165"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "66"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-05T13:12:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "67"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-07T00:40:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "68"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-13T23:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "69"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-01T08:32:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "70"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-07T02:40:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "71"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-13T09:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "72"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-10T06:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "blockage_cause": "Protest",
+      "alternative_route_available": false,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "73"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sampués",
+    "event_date": {
+      "$date": "2026-11-12T10:17:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "30"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": false,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "74"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-13T14:12:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "30"
+    },
+    "details": {
+      "blockage_cause": "Flooding",
+      "alternative_route_available": false,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "75"
+    },
+    "incident_id": null,
+    "event_type": "ROAD_BLOCKAGE",
+    "description": "Bloqueo vial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-12T22:07:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "blockage_cause": "Roadworks",
+      "alternative_route_available": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "76"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-20T11:08:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "77"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-04T10:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "78"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Corozal",
+    "event_date": {
+      "$date": "2026-11-17T19:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "79"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-20T13:26:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "80"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-17T14:17:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "30"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "81"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Majagual",
+    "event_date": {
+      "$date": "2026-11-12T08:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "82"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-19T11:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "83"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-11T18:34:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "84"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Corozal",
+    "event_date": {
+      "$date": "2026-11-02T03:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "85"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-19T17:42:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "86"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T03:25:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "87"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-18T09:50:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "30"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "88"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-10T01:59:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "89"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Majagual",
+    "event_date": {
+      "$date": "2026-11-11T08:35:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "90"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-19T03:13:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "165"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "91"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Majagual",
+    "event_date": {
+      "$date": "2026-11-13T16:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "92"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-16T01:42:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "15"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "93"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-09T03:02:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "94"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Majagual",
+    "event_date": {
+      "$date": "2026-11-05T22:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "95"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-15T06:37:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "96"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-18T12:44:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "97"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Corozal",
+    "event_date": {
+      "$date": "2026-11-03T00:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "98"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-24T15:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "99"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-17T13:49:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "100"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-15T06:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "101"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-24T01:54:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "102"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-15T20:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "103"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-06T19:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "104"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-08T22:05:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "105"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-19T11:32:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "106"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-14T01:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "107"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-22T03:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "108"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en San Marcos",
+    "event_date": {
+      "$date": "2026-11-24T06:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "109"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Sampués",
+    "event_date": {
+      "$date": "2026-11-04T20:37:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "traffic_level": "HIGH",
+      "affected_segment": "Main road",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "110"
+    },
+    "incident_id": null,
+    "event_type": "TRAFFIC_DELAY",
+    "description": "Congestión vehicular en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-05T06:00:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "traffic_level": "MEDIUM",
+      "affected_segment": "Main road",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "111"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-11T05:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "112"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-03T02:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "113"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-21T17:26:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "114"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-18T11:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "115"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-07T17:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "116"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-05T20:25:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "117"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-24T13:44:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "118"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-06T12:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "119"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-15T10:34:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "120"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-21T07:03:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "121"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-21T11:35:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "122"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-24T17:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "123"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T11:56:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "124"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T16:07:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "125"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Majagual",
+    "event_date": {
+      "$date": "2026-11-04T16:00:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "126"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-18T10:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "127"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-03T22:09:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "128"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-22T04:54:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "129"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-20T02:54:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "130"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-18T07:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "131"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-14T14:09:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "132"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-23T05:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "access_condition": "Unpaved road",
+      "assistance_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "133"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Majagual",
+    "event_date": {
+      "$date": "2026-11-23T02:27:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "15"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "134"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-19T09:37:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "360"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "135"
+    },
+    "incident_id": null,
+    "event_type": "ACCESS_DIFFICULTY",
+    "description": "Dificultad de acceso al destino en Corozal",
+    "event_date": {
+      "$date": "2026-11-06T19:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "access_condition": "Narrow street",
+      "assistance_required": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "136"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-18T22:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 2,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "137"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T05:36:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 23,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "138"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-07T04:13:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 15,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "139"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Corozal",
+    "event_date": {
+      "$date": "2026-11-12T20:09:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 3,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "140"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Majagual",
+    "event_date": {
+      "$date": "2026-11-21T16:39:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "165"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 8,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "141"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Majagual",
+    "event_date": {
+      "$date": "2026-11-18T06:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 26,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "142"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en San Marcos",
+    "event_date": {
+      "$date": "2026-11-04T17:27:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 10,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "143"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-03T08:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 25,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "144"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Corozal",
+    "event_date": {
+      "$date": "2026-11-04T02:56:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 22,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "145"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-02T09:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "120"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 26,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "146"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Corozal",
+    "event_date": {
+      "$date": "2026-11-01T22:15:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 28,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "147"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Corozal",
+    "event_date": {
+      "$date": "2026-11-06T17:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 9,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "148"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-10T22:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 5,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "149"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-17T18:55:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 10,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "150"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-06T05:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 21,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "151"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Majagual",
+    "event_date": {
+      "$date": "2026-11-02T04:02:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 5,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "152"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-18T01:56:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 23,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "153"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-04T11:00:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 8,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "154"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-12T01:15:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "60"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 28,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "155"
+    },
+    "incident_id": null,
+    "event_type": "ROUTE_CHANGE",
+    "description": "Cambio de recorrido en Sampués",
+    "event_date": {
+      "$date": "2026-11-14T17:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "reason": "Road conditions",
+      "extra_distance_km": 26,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "156"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T20:51:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 26,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "157"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-17T20:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 22,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "158"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-20T02:48:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 1,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "159"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-21T22:09:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 12,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "160"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Corozal",
+    "event_date": {
+      "$date": "2026-11-24T17:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 6,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "161"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-20T19:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "360"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 15,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "162"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-12T04:08:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 11,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "163"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-22T03:35:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 8,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "164"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T07:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "240"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 11,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "165"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-10T15:41:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "180"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 16,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "166"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-13T13:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "270"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 9,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "167"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T23:37:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "360"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 3,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "168"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en San Marcos",
+    "event_date": {
+      "$date": "2026-11-11T22:29:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 18,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "169"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en San Marcos",
+    "event_date": {
+      "$date": "2026-11-01T18:50:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 15,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "170"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-12T01:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 13,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "171"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Sampués",
+    "event_date": {
+      "$date": "2026-11-16T15:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 16,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "172"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Sampués",
+    "event_date": {
+      "$date": "2026-11-21T15:36:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 12,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "173"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-06T11:47:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "360"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 8,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "174"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Corozal",
+    "event_date": {
+      "$date": "2026-11-09T10:13:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 4,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "175"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Corozal",
+    "event_date": {
+      "$date": "2026-11-24T21:02:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 9,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "176"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Majagual",
+    "event_date": {
+      "$date": "2026-11-09T20:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 27,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "177"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Corozal",
+    "event_date": {
+      "$date": "2026-11-14T18:09:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "15"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 6,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "178"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Sampués",
+    "event_date": {
+      "$date": "2026-11-03T01:42:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "30"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 9,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "179"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-06T17:55:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "damage_type": "Impact",
+      "affected_weight_kg": 23,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "180"
+    },
+    "incident_id": null,
+    "event_type": "DAMAGED_GOODS",
+    "description": "Mercancía dañada en San Marcos",
+    "event_date": {
+      "$date": "2026-11-01T13:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "damage_type": "Moisture",
+      "affected_weight_kg": 28,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "181"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Majagual",
+    "event_date": {
+      "$date": "2026-11-22T18:53:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "225"
+    },
+    "details": {
+      "returned_weight_kg": 16,
+      "reason": "Customer rejection",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "182"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Majagual",
+    "event_date": {
+      "$date": "2026-11-03T08:07:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "135"
+    },
+    "details": {
+      "returned_weight_kg": 6,
+      "reason": "Customer rejection",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "183"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-03T23:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "195"
+    },
+    "details": {
+      "returned_weight_kg": 4,
+      "reason": "Customer rejection",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "184"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-03T10:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "75"
+    },
+    "details": {
+      "returned_weight_kg": 3,
+      "reason": "Customer rejection",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "185"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Corozal",
+    "event_date": {
+      "$date": "2026-11-14T19:52:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "returned_weight_kg": 19,
+      "reason": "Customer rejection",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "186"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Corozal",
+    "event_date": {
+      "$date": "2026-11-19T22:34:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "300"
+    },
+    "details": {
+      "returned_weight_kg": 4,
+      "reason": "Customer rejection",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "187"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-11T06:30:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "255"
+    },
+    "details": {
+      "returned_weight_kg": 20,
+      "reason": "Customer rejection",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "188"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-21T03:34:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "returned_weight_kg": 15,
+      "reason": "Customer rejection",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "189"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-14T21:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "285"
+    },
+    "details": {
+      "returned_weight_kg": 14,
+      "reason": "Customer rejection",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "190"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-05T12:23:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "105"
+    },
+    "details": {
+      "returned_weight_kg": 2,
+      "reason": "Customer rejection",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "191"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T01:03:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "330"
+    },
+    "details": {
+      "returned_weight_kg": 7,
+      "reason": "Customer rejection",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "192"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T21:59:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "90"
+    },
+    "details": {
+      "returned_weight_kg": 6,
+      "reason": "Customer rejection",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "193"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-08T02:58:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "15"
+    },
+    "details": {
+      "returned_weight_kg": 3,
+      "reason": "Customer rejection",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "194"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en San Marcos",
+    "event_date": {
+      "$date": "2026-11-22T09:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "150"
+    },
+    "details": {
+      "returned_weight_kg": 15,
+      "reason": "Customer rejection",
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "195"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-14T02:41:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "345"
+    },
+    "details": {
+      "returned_weight_kg": 8,
+      "reason": "Customer rejection",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "196"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Majagual",
+    "event_date": {
+      "$date": "2026-11-21T15:55:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "returned_weight_kg": 23,
+      "reason": "Customer rejection",
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "197"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T00:57:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "returned_weight_kg": 8,
+      "reason": "Customer rejection",
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "198"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-10T00:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "210"
+    },
+    "details": {
+      "returned_weight_kg": 22,
+      "reason": "Customer rejection",
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "199"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T05:33:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "315"
+    },
+    "details": {
+      "returned_weight_kg": 18,
+      "reason": "Customer rejection",
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "200"
+    },
+    "incident_id": null,
+    "event_type": "PARTIAL_RETURN",
+    "description": "Devolución parcial en Corozal",
+    "event_date": {
+      "$date": "2026-11-07T11:21:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "45"
+    },
+    "details": {
+      "returned_weight_kg": 9,
+      "reason": "Customer rejection",
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "201"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-08T13:13:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "202"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Majagual",
+    "event_date": {
+      "$date": "2026-11-14T03:14:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "203"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en San Marcos",
+    "event_date": {
+      "$date": "2026-11-06T15:49:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "204"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en San Marcos",
+    "event_date": {
+      "$date": "2026-11-14T20:08:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "205"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sampués",
+    "event_date": {
+      "$date": "2026-11-19T07:38:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "206"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Majagual",
+    "event_date": {
+      "$date": "2026-11-23T18:38:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "207"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-23T11:21:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "208"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en San Marcos",
+    "event_date": {
+      "$date": "2026-11-04T15:51:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "209"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T19:32:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "210"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en San Marcos",
+    "event_date": {
+      "$date": "2026-11-15T16:03:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "211"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-12T09:28:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "212"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-05T03:45:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "213"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Corozal",
+    "event_date": {
+      "$date": "2026-11-01T22:39:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "214"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sampués",
+    "event_date": {
+      "$date": "2026-11-13T06:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "215"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T19:56:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "216"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Corozal",
+    "event_date": {
+      "$date": "2026-11-22T09:54:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "217"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-21T03:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "218"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Majagual",
+    "event_date": {
+      "$date": "2026-11-09T06:14:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "219"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-20T20:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "220"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sampués",
+    "event_date": {
+      "$date": "2026-11-23T09:05:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "221"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-22T09:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "222"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Majagual",
+    "event_date": {
+      "$date": "2026-11-19T14:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "223"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Majagual",
+    "event_date": {
+      "$date": "2026-11-15T14:40:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "224"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Sampués",
+    "event_date": {
+      "$date": "2026-11-05T18:15:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "225"
+    },
+    "incident_id": null,
+    "event_type": "WAREHOUSE_DEPARTURE",
+    "description": "Salida de bodega en Corozal",
+    "event_date": {
+      "$date": "2026-11-16T00:14:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "warehouse": "Sincelejo",
+      "inspection_completed": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "226"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en San Marcos",
+    "event_date": {
+      "$date": "2026-11-23T13:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "227"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-19T05:24:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "228"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-02T16:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "229"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en San Marcos",
+    "event_date": {
+      "$date": "2026-11-05T00:11:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "230"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-12T11:41:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "231"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-06T06:37:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "232"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en San Marcos",
+    "event_date": {
+      "$date": "2026-11-24T10:04:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "233"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-22T00:36:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "234"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en San Marcos",
+    "event_date": {
+      "$date": "2026-11-03T11:12:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "235"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Corozal",
+    "event_date": {
+      "$date": "2026-11-24T14:16:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Corozal",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "236"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-23T16:29:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "237"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Sampués",
+    "event_date": {
+      "$date": "2026-11-21T02:49:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "238"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-10T06:20:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "239"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-06T23:06:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "240"
+    },
+    "incident_id": null,
+    "event_type": "CHECKPOINT",
+    "description": "Paso por punto de control en Majagual",
+    "event_date": {
+      "$date": "2026-11-20T22:32:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "checkpoint_name": "Control vial",
+      "inspection_completed": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "241"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-23T01:26:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "242"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-02T07:31:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "243"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-11T21:22:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "244"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sampués",
+    "event_date": {
+      "$date": "2026-11-08T04:59:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sampués",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "245"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Majagual",
+    "event_date": {
+      "$date": "2026-11-01T14:56:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Majagual",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "246"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Toluviejo",
+    "event_date": {
+      "$date": "2026-11-19T13:38:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Toluviejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "247"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-11T05:25:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "248"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-22T00:01:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "249"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en Sincelejo",
+    "event_date": {
+      "$date": "2026-11-08T00:10:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "Sincelejo",
+      "synthetic": true
+    },
+    "evidence": []
+  },
+  {
+    "dispatch_id": {
+      "$numberInt": "250"
+    },
+    "incident_id": null,
+    "event_type": "DESTINATION_ARRIVAL",
+    "description": "Llegada al destino en San Marcos",
+    "event_date": {
+      "$date": "2026-11-14T06:47:00Z"
+    },
+    "delay_minutes": {
+      "$numberInt": "0"
+    },
+    "details": {
+      "arrival_confirmed": true,
+      "recipient_notified": true,
+      "municipality": "San Marcos",
+      "synthetic": true
+    },
+    "evidence": []
+  }
+]
